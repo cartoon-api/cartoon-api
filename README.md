@@ -47,7 +47,7 @@ Community APIs can be used in:
 | API | Status | Description |
 |----|------|-------------|
 | South Park API | 🟡 In development | A REST API with various data from the South Park series |
-| Hazbin Hotel API | 🟡 In development | A REST API with various data from the Hazbin Hotel series |
+| Hazbin Hotel API | 🟢 Finished | A REST API with various data from the Hazbin Hotel and Helluva Boss series |
 | Steven Universe API | 🟢 Finished | An API to retrieve data on characters, gems, fusions, and other categories from the Cartoon Network series Steven Universe. |
 
 > New APIs are added as the community grows.
